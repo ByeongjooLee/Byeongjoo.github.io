@@ -40,7 +40,7 @@
   </ul>
 
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:bj3632@gmail.com">email@example.com</a><br>
+  <p>Email: <a href="mailto:bj3632@gmail.com">bj3632@gmail.com</a><br>
      Web: <a href="https://byeongjoo.github.io">https://byeongjoo.github.io</a></p>
 
 </body>
