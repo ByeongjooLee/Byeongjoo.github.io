@@ -1,31 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Byeongjoo Lee – Literary Criticism & Digital Humanities</title>
-  <style>
-    body {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      max-width: 800px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #005288;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
-</head>
 <body>
 
   <h1>Byeongjoo Lee</h1>
