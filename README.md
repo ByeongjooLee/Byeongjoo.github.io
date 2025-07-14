@@ -18,10 +18,29 @@
 
   <h3>Literary Criticism and Poetics</h3>
   <ul>
-    <li>The Formation and Performativity of Critical Discourse in 1950s–60s Korea</a>:</strong> Focusing on the Structure of Language, Subject, and Discourse (Ph.D. Dissertation, Korea University, expected Jul. 2025)</li>
-    <li><strong><a href="[2017_KimGyudong_Poetics.pdf](https://www-riss-kr-ssl.oca.korea.ac.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=ee472407ad45b9dab36097776a77e665&keyword=%EC%9D%B4%EB%B3%91%EC%A3%BC%20%EB%B0%95%EC%98%81%EC%A4%80)" target="_blank">A Study on Kim Gyudong’s Poetics</a></strong> (Master’s Thesis, Korea University)</li>
-    <li><a href="[2021_ParkYoungjun_Criticism.pdf](https://www-riss-kr-ssl.oca.korea.ac.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=ee472407ad45b9dab36097776a77e665&keyword=%EC%9D%B4%EB%B3%91%EC%A3%BC%20%EB%B0%95%EC%98%81%EC%A4%80)" target="_blank">Conversion and Humanism: Focusing on the Writings of Park Yeong-jun after Liberation</a> (<em>Korean Contemporary Literary Criticism Studies</em>, 2021)</li>
-    <li><a href="[2020_PoeticTheory_EastPurity.pdf](https://www-riss-kr-ssl.oca.korea.ac.kr/link?id=A107216331)" target="_blank">A Comparative Study on the Concept of 'East' and 'Purity' in <em>The Principle of Poetry</em> and <em>Poetic Criticism: A Critical Biography</em></a> (<em>Korean Language and Literature Association</em>, 2020)</li>
+<li>
+  <strong>
+    <a href="https://www-riss-kr-ssl.oca.korea.ac.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=ee472407ad45b9dab36097776a77e665&keyword=%EC%9D%B4%EB%B3%91%EC%A3%BC%20%EB%B0%95%EC%98%81%EC%A4%80" target="_blank">
+      A Study on Kim Gyudong’s Poetics
+    </a>
+  </strong>
+  (Master’s Thesis, Korea University)
+</li>
+
+<li>
+  <a href="https://www-riss-kr-ssl.oca.korea.ac.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=ee472407ad45b9dab36097776a77e665&keyword=%EC%9D%B4%EB%B3%91%EC%A3%BC%20%EB%B0%95%EC%98%81%EC%A4%80" target="_blank">
+    Conversion and Humanism: Focusing on the Writings of Park Yeong-jun after Liberation
+  </a>
+  (<em>Korean Contemporary Literary Criticism Studies</em>, 2021)
+</li>
+
+<li>
+  <a href="https://www-riss-kr-ssl.oca.korea.ac.kr/link?id=A107216331" target="_blank">
+    A Comparative Study on the Concept of 'East' and 'Purity' in <em>The Principle of Poetry</em> and <em>Poetic Criticism: A Critical Biography</em>
+  </a>
+  (<em>Korean Language and Literature Association</em>, 2020)
+</li>
+
   </ul>
 
   <h3>Popular Culture</h3>
