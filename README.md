@@ -18,7 +18,7 @@
 
   <h3>Literary Criticism and Poetics</h3>
   <ul>
-    <li><strong><a href="2025_Dissertation_Performativity.pdf" target="_blank">The Formation and Performativity of Critical Discourse in 1950s–60s Korea</a>:</strong> Focusing on the Structure of Language, Subject, and Discourse (Ph.D. Dissertation, Korea University, expected Jul. 2025)</li>
+    <li>The Formation and Performativity of Critical Discourse in 1950s–60s Korea</a>:</strong> Focusing on the Structure of Language, Subject, and Discourse (Ph.D. Dissertation, Korea University, expected Jul. 2025)</li>
     <li><strong><a href="2017_KimGyudong_Poetics.pdf" target="_blank">A Study on Kim Gyudong’s Poetics</a></strong> (Master’s Thesis, Korea University)</li>
     <li><a href="2021_ParkYoungjun_Criticism.pdf" target="_blank">Conversion and Humanism: Focusing on the Writings of Park Yeong-jun after Liberation</a> (<em>Korean Contemporary Literary Criticism Studies</em>, 2021)</li>
     <li><a href="2020_PoeticTheory_EastPurity.pdf" target="_blank">A Comparative Study on the Concept of 'East' and 'Purity' in <em>The Principle of Poetry</em> and <em>Poetic Criticism: A Critical Biography</em></a> (<em>Korean Language and Literature Association</em>, 2020)</li>
